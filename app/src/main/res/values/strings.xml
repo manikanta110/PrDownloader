@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pr Downloader</string>
+    <string name="cancel">Cancel</string>
+    <string name="start">Start</string>
+    <string name="pause">pause</string>
+    <string name="resume">resume</string>
+    <string name="completed">completed</string>
+    <string name="some_error_occurred">Error Occured</string>
+</resources>
